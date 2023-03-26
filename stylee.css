@@ -1,0 +1,154 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container h1 {
+  margin-left: -800px;
+  font-size: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo img {
+  margin-left: -100px;
+}
+input {
+  height: 40px;
+}
+.card {
+    margin-right: 100px;
+    padding: 5px;
+    margin:5px
+}
+
+
+.cardd .card img {
+    height: 350px;
+    
+}
+
+
+.title h1 {
+    margin-top : 10px;
+    margin-bottom: 20px;
+    text-shadow: 8px 8px 8px red ;
+    font-size: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.tittle h1 {
+  margin-top : 10px;
+  margin-bottom: 20px;
+  text-shadow: 8px 8px 8px black ;
+  font-size: 50px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cardd {
+    background-color: black;
+    background-image: url('2.jpg');
+    background-size: cover;
+    height: 1300px;
+}
+
+.card h4 {
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card p {
+    font-size: 15;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.badan {
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-1 {
+  max-width: 1120px;
+  width: 100%;
+  padding: 40px 0;
+}
+.slide-container {
+  margin: 0 30px;
+  overflow: hidden;
+}
+.card {
+  background: black;
+  border-radius: 8px;
+}
+.card .image-box {
+  height: 300px;
+}
+.card .image-box img {
+  width: 100%;
+  height: 100%;
+}
+.card .title-details {
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  padding: 15px;
+}
+.card .title-details img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.title-details .name {
+  font-size: 15px;
+  font-weight: 500;
+  color: #fff;
+}
+.title-details .judul {
+  font-size: 12px;
+  font-weight: 500;
+  color: wheat;
+}
+
+.title-details {
+    height: 100px;
+}
+
+.name-judul {
+    text-align: center;
+    align-items: center;
+    margin-left: 80px;
+    
+}
+
+.swiper-navBtn {
+  color: #000;
+  height: 0px;
+  width: 40px;
+  background: #fff;
+  border-radius: 50%;
+}
+
+
+.bg {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
